@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+#header{
+    background: url("../img/bg.png") no-repeat top/cover;
+    height: 100vh;
+}
+
+.header {
+    display: inline-block;
+    padding: 40px 0;
+}
+
+
+.header__navbar{
+    margin-left: 79px;
+
+}
+
+.navbar__item{
+    font-family: 'NExa',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13.5715px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #ffffff;
+    margin: 0 37px;
+}
+
+.header__line{
+    display: inline-block;
+    width: 280px;
+    height: 1px;
+    background: #fff;
+    margin-right: 25px;
+}
+
+.header__icon{
+    border: 2px solid#9F7FF3;
+    padding: 10px 7px 5px 7px;
+    border-radius: 4px;
+}
+
+.adam__img{
+    position: absolute;
+    left: 400px;
+    bottom: 0px;
+}
+
+.women__img{
+    position: absolute;
+    left: 50px;
+    bottom: 50px;
+}
+
+.hero_text {
+    position: absolute;
+    color: white;
+    bottom: 400px;
+    left: 120px;
+}
+
+.hero{
+    position: absolute;
+    color: white;
+    left: 50px;
+    bottom:500px ;
+    font-size: 68.7982px;
+    text-transform: uppercase;
+
+}
+
+.heros{
+    position: absolute;
+    color:darkblue;
+    left: 50px;
+    bottom: 440px;
+    font-size: 67.6875px;
+    text-transform: uppercase;
+
+}
+
+.herom{
+    position: absolute;
+    color: white;
+    left:120px;
+    bottom:290px;
+}
+
+.heris{
+    position: absolute;
+    color: white;
+    bottom: 290px;
+    left: 300px;
+    text-transform: uppercase;
+}
